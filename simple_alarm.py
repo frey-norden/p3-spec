@@ -13,7 +13,7 @@ def alarm():
     return new_time
 
 def main():
-    print(alarm())
+    print("Alarm is set for kl.", str(alarm()) + ":00")
 
 if __name__ == "__main__":
     main()
