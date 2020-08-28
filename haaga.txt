@@ -1,0 +1,20 @@
+
+Learning objectives
+Upon successful completion of this course, the student should be able to
+- install the Linux/Windows Server operating system, and specify the server
+deploy a variety of server roles and features
+- understand network protocols functions
+- understand server platforms requirements and their suitability for different services
+- deploy the most typical servers and knows the basics of the Windows / Linux server environment
+- install and maintain appropriate programming platform
+Contents
+- Windows / Linux server architectures
+- Data networks main protocols
+- Server environment installation and management
+- Directory Services
+- Network services and their function
+- System services and service management
+- Installation and maintenance of web-server
+- LAMP / MEAN
+- Maintenance and maintenance tools.
+
