@@ -1,4 +1,4 @@
-L = ['E', 'F', 'B', 'M', 'C', 'X', 'X', 'X', 'A', 'D', 'I', 'I', 'C', 'B', 'A', 'D', 'D', 'E', 'D']
+L = ['E', 'F', 'B', 'M', 'C', 'X', 'X', 'X', 'A', 'D', 'I', 'I', 'C', 'B', 'A', 'D', 'D', 'E', 'D', 'B', 'M', 'C', 'X', 'X', 'X', 'A', 'D', 'I', 'I', 'C', 'B', 'A']
 
 d = {}
 for x in L:
@@ -10,4 +10,4 @@ for x in L:
 y = sorted(d.keys())
 
 for k in y:
-    print('{} appears {} times in this list'.format(k, d[k]))    
+    print('{} appears {} times in this list'.format(k, d[k]))
