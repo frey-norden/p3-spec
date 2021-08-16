@@ -13,4 +13,4 @@ response = get_yes_or_no('Do you like the beach? (Y)ay eller (N)ej:')
 if response == 'Y':
     print('Great! Mr. Niceguy lives down by da beach.')
 else:
-    print("Too bad. You're missing out.")
+    print("Oh, you wanna talk to Sampson.")
